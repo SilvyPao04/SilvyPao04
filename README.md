@@ -1,6 +1,6 @@
 ## 🌟 Code Adventures with Silvia 🌟
 
-👋 Hello! I'm Silvia, dedicated to understanding and satisfying the needs of customers and users. I have transitioned into the world of web development and programming, where my passion for creating exceptional experiences has merged with my curiosity for technology. Currently, I'm learning HTML, CSS, JavaScript, and Python.
+👋 Hello! I'm Silvia, dedicated to understanding and satisfying the needs of customers and users. I have transitioned into the world of web development and programming, where my passion for creating exceptional experiences has merged with my curiosity for technology. Currently, I'm learning HTML, CSS, JavaScript, SQL, and Python.
 
 💻 My coding experience includes HTML for structure, CSS for design, JavaScript for interactivity, and Python for programming logic. I'm committed to continuous learning and growth in this fascinating field.
 
@@ -13,7 +13,7 @@ Ready to join this adventure? Let's challenge the tech world together and build 
 ---
 ### 🛠 Technical Skills
 
-- **Languages:** HTML, CSS, JavaScript, Python
+- **Languages:** HTML, CSS, JavaScript, SQL, Python
 - **Testing:** Jest
 - **Tools:** Git, Visual Studio Code, GitHub
 - **Methodologies:** Agile, Scrum
